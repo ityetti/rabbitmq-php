@@ -6,7 +6,7 @@ This is a simple AMQP send-receive client for RabbitMQ.
 
 ### Installation
 ```
-git clone git://github.com/ityetti/rabbitmq-php.git
+git clone git@github.com:ityetti/rabbitmq-php.git
 cd rabbitmq-php
 composer install
 ```
